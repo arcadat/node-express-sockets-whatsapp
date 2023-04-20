@@ -89,6 +89,5 @@ export const UserController = {
     updateUserMe,
     getUser,
     getUsers,
-    getUsersNonGroup,
-    testsql
+    getUsersNonGroup
 };
